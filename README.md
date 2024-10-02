@@ -8,7 +8,9 @@ Trabalho Final - Princípios de Banco de Dados.pdf: Documento que contém a mode
 - Normalização dos dados
 
 SQLScriptCriaBDTrabalho.sql: Script SQL para criação das tabelas do banco de dados.
+
 SQLInsereDados.sql: Script SQL para povoar o banco de dados com dados de exemplo.
+
 SQLQueryConsultas.sql: Conjunto de queries para realizar consultas e testes no banco de dados criado.
 
 ## Requisitos
